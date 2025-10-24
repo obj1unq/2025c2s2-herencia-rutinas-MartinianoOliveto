@@ -1,4 +1,5 @@
 import rutinas.*
+import clubes.*
 
 class Persona{
     const kilosPorCaloriaQuePierde
